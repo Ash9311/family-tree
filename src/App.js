@@ -289,7 +289,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Gunavathi",
       "last name": "G Mulki",
       "birthday": "Mulki,Karnataka",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABtMydbp_AYSL1ha6dQQBk_MAeDykAhC0gONQUwDjcxgKdvZ10jqOVqjO4DCUx69Hc9KoH-jlM6GVwtF-EmoTmqltTCgOE_asiYVXzEMlCEGRtMTXfGM3sPuPpSnfmjg_WvI9U1HqvhUKLPCbXTPqyaRQZDjVbfepq2Q4EvGuaRoL6aapgwGbMjLwXAYcoepv0u7VpeKOGvkqtSGWPAmXW1_rrQHGNbJ_VDYjlfv8553GD1eKzWNFtHMOEIoKAShdJNiiBsr4cVS1WqnSjSyGjDo5iYJ727sQVCmOCpR_kn0WtIeFrabVtpfQtoNK2kvPYDS4H8XfiL7c988LSIlpUbYAm0oU21XcqmJvFOBBACI1RCiHRqKucQOnH9Hnd_emb_XZENpgi8WYFxT_qa3t5K8/p.jpeg"
+      "avatar": require("./images/Gunavathi.jpg")
     },
     "rels": {
       "father": "0",
