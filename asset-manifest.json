@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/family-tree/static/css/main.58c9a70a.css",
-    "main.js": "/family-tree/static/js/main.94c14692.js",
+    "main.js": "/family-tree/static/js/main.8ad61315.js",
     "static/js/787.89253b9b.chunk.js": "/family-tree/static/js/787.89253b9b.chunk.js",
     "static/media/Sphrihan.png": "/family-tree/static/media/Sphrihan.fa4e73bb22db97327dd5.png",
     "static/media/Jyoti.png": "/family-tree/static/media/Jyoti.057b30bf1379a9711d2b.png",
@@ -12,17 +12,18 @@
     "static/media/Prabodh kumar.png": "/family-tree/static/media/Prabodh kumar.ab798e6132bba555f80c.png",
     "static/media/Divya.png": "/family-tree/static/media/Divya.c8d12888dc8db1051c40.png",
     "static/media/Amita kumar.png": "/family-tree/static/media/Amita kumar.c61025ebcb7ecf8e4e78.png",
+    "static/media/Gunavathi.jpg": "/family-tree/static/media/Gunavathi.490ecc5ade06f1cf6df9.jpg",
     "static/media/Nayana.png": "/family-tree/static/media/Nayana.f4008a94cde779a8a125.png",
     "static/media/Ananya.png": "/family-tree/static/media/Ananya.c9dd64eee5312c17cced.png",
     "static/media/GopalKrishna.jpg": "/family-tree/static/media/GopalKrishna.136d8d90b51f08d34928.jpg",
     "static/media/Savitha.jpg": "/family-tree/static/media/Savitha.8e6080ff4d15e749ad79.jpg",
     "index.html": "/family-tree/index.html",
     "main.58c9a70a.css.map": "/family-tree/static/css/main.58c9a70a.css.map",
-    "main.94c14692.js.map": "/family-tree/static/js/main.94c14692.js.map",
+    "main.8ad61315.js.map": "/family-tree/static/js/main.8ad61315.js.map",
     "787.89253b9b.chunk.js.map": "/family-tree/static/js/787.89253b9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58c9a70a.css",
-    "static/js/main.94c14692.js"
+    "static/js/main.8ad61315.js"
   ]
 }
