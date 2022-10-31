@@ -313,7 +313,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Jyothi ",
       "last name": "P Kumar",
       "birthday": "Bangalore,Karnataka",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABr7_O-n_eRsv1iSAhBK-xP4UIslfbKBhyUSR4GYddiH38mFmt9eOrdjY0m5oJIkz0Vt1K2Mz8w1Z9Q-pikrn0FG8kZHd-u9Rdv4yMTVgnFuHQ6dW4yxFmmM9yMqUj9o9QUKeqk4vIobaqaBCTNeD3QUu9ewI3w_W3FE8U_9fDKdpCc6XYqLEsS542J10PruQVs1-6xOSTrwLMnQZwvSmHh6aDoF2ExD8Gkq09LfOi_d4OcqKvtrFuL6ImlwwNvpfCobGseHRf5V5aHbuDNpg9n3Cg1HLHZjMuH8SE_PdQvA5u4RLg6DLL8tw-kKyJRh-xby5GGIS96jPu4qOvUTUbB8F1RGM6Qr0YhPNSV191UpN2CYmQ-Sz_2xY18I4QKiv14/p.png"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABtDmuh2tYdBQmZis989TMzS7SxNkAA3VoNyp17snfZOXWv66tX_CXO5XKUTHFVarP7CS9TBeh1op_4JOSXCb8pCBmjbyu_uMQz7MWdWhka9yqUfHaPB9u3jaD9_07rBSAeALxJpbsxxzMRrh6meMEk9DdPsDDY0F58OI7gSBXSJ2GmUuOsNTmCOZbr4-0h8uVPE6kofO66IpAPmY40OmdAd6-8Nyns8VndyoWHbfSIIjZ9zlEg4n5dy-s5jpsK0dYaOcyRtPtvLna5yglVQBjrsIi5V4ZntF4fbTxZGUCk1-adZqoCMSmtEvFGII4G2MCj3WhWgolWYLEJ16pnz6mkiQKzhWOXEO5NDq8oXdGjRFGvzfPqxxpYIh05uyEjBwFNmTFn-xl7oNcHVY3GGlXIH/p.png"
     },
     "rels": {
       "father": "63a63a6a-a14d-4fb8-a466-6ca92e9e8b69",
@@ -334,7 +334,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Uday ",
       "last name": "G Mulky",
       "birthday": "Andheri, Mumbai",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t39.30808-6/305921981_5625643544145472_1690731529077977092_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ndJqNOEbAzsAX8fnD9q&_nc_ht=scontent.fbom12-1.fna&oh=00_AT_Fe7ivn6Tf_fQbAC_6KzCvDblvbQJCE0H_0Yu144alog&oe=63487D53"
+      "avatar": "https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-6/305921981_5625643544145472_1690731529077977092_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=vAjbicKWzRkAX8_mHTb&_nc_ht=scontent-bom1-1.xx&oh=00_AfCPXebQ4VUIyYihFvB_6kUDifb-hNpv-dAOsWcY4_L2mw&oe=63642CD3"
     },
     "rels": {
       "father": "63a63a6a-a14d-4fb8-a466-6ca92e9e8b69",
@@ -396,7 +396,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Savitha",
       "last name": "C Mulki",
       "birthday": "Mulki,Karnataka",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABroipJX-8-WItBeYllmdKwaNttfSI5s2D_M-r9kg6frHRhA5NuUyDeK6KW7KcFfkKSn6MyXLmlkpCyHM9P9tsf86Ul4p7zpsUrA5LBvY7a2PCZ2y3GvVo9dSEED8IMfjbg7xzfXFQYVUOkkmZ2muHd983Ht4Jmwe3pRvLr-lCDwVwlgFYPYDBpHpTjL-_is8kKwPyEjOt0U24Pz7BCR2u34dU6TGFNsrxCEgIMxBRWcmB5i1J3iVuOJM5niPK5mtLP8oI8iH8nNEfSBRh9TSbV7tu0Vqy-fRiR_RouRtQgTrl0MrNHldpGAMA7gPYBdpLJAg3EmCp19Mx4xYRYzBjlRql5iWwf5TwFbL70H6wXbPIUNrKpuE53Gh8EX9ocakiMqlybbIVZCGs3TihzZDSPe/p.jpeg"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABuWYpnOP5bteXkQfYUbf9-SkdfuDlb97_vXvks5_AwexDiPyzjQ3mmi2kfbuKhqWlGqrde9gxbXyBkU2TDj-bxzW0fbURTxqQGcPf63N0S8XF7lOxBnMOAH3u1SJAudrC-yjbDheCL8epu_gc9PuH1pfJqltjoJCBnGO76pxsQ8v3vuBZ3jE1sdTnuy5kYAMYEBZ2I5bqp4gRp-6bHPYsUQ-QLYl29jfphaVVFHF0vjPiR8fyFofUgvkyLqZCdAqbmAv2a0_R-d08fs413kSvbTBAsIWRrNW3YvF_wUwrv7hEaAWhgy9isUtmDTdXXWTn65jNK74rGyN7mGxCrFreXfaA1ggQSZL8kTVPrhj8KV0Av0CD-jn1vEdxh9w8yOkyXRv3jNDXsix2HMbG3RkaL3/p.jpeg"
     },
     "rels": {
       "spouses": [
@@ -428,7 +428,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Gopal",
       "last name": "Poojary",
       "birthday": "Udupi,Karnataka",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABqqk3Yx9Kyd62B3Nfkp956MJDoj_jHIKsT-UNnFARIazB4hIC0JYJcqziHlBmQmb_1i2ZJtQyPoiC-z3VikeLgaz6YjftKy7gbW1DgcYImtT3_-fPF1LEaqqjwiAluPlb3MOglVSPFO9AJfz22JkxdBhIaG60-v4R0HrzM9OD3qdBIqVrqSNDWEI1MRp-TSIO4SZ6i4td2xF-xiERMZ8gijtsZlJsFp_L_o89XChx1MFzIyT2mxlsZMpqR4wUD2KxuCTUdx1zIunkyRAr4hkbQcA5lEPQJwAMySQctNmwVcqEEtjAqndOlvJQn63zlldXONlN-1H2K6ivBpS2sLAYdpFGnR9PCWLsHEHxJSIKIxS9aqXi2bGxgHXLkDhAoFYHQ/p.png"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABs3EmPCsHQhxZmeEevsMiWGkxKCFj3bmLsXLttA2OXu_pqMlpaMDww_Ir_mKxEJwn6ggmVm-CC2FuHrWxmmk9HwDyYnAm_OPdPiTMJiBZ08oJEi-5YkTWL5rgWxvxQcUMa4eVPK81Tf2vp4R2U0fChUssno9RMqY0IPHEbLP1jF_YFOPk_RcU69xHSflPh1Z88zSITk_pLZutOC8iWE2w4bqH5oV5NPcUxwExjo1hGIVFWH42SLKPd-JggqAUjCSv3tCFZRUuAWEyzc1hQ4yCYEnpwY8qPOo1RBBNez6UEz7x-AykQAhExWEjUD16oHyWFE55T1PSthuUUdFojpnaX65Ktd3CbSRc9uNW2oX8wuGGTkozEDBi6aTpJq5LwAGTddxUz5Wrkp4EeM5-to9GAM/p.png"
     },
     "rels": {
       "spouses": [
@@ -468,7 +468,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Prashanth",
       "last name": "Poojary",
       "birthday": "Goregaon,Mumbai",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t39.30808-6/269603759_10159384647455250_1996126181907287483_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=f7X7MuAKqhoAX8npLpg&_nc_ht=scontent.fbom12-1.fna&oh=00_AT_AXoneh3Ii1uJo_IkZ1bpDDXkKJbZginob5SowBwE_fg&oe=6348937B"
+      "avatar": "https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-1/269603759_10159384647455250_1996126181907287483_n.jpg?stp=dst-jpg_s200x200&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=udUoBUALGAoAX-zt7sT&_nc_ht=scontent-bom1-1.xx&oh=00_AfAa7gKdzNzw0BePDYbpDkBjv7rS6AtndEyCYD1iN51hqg&oe=63648E4B"
     },
     "rels": {
       "spouses": [
@@ -501,7 +501,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Sphrihan ",
       "last name": "P Poojary",
       "birthday": "Goregaon,Mumbai",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABpcPU9igYZxc2NA-tdSAFp5CnhDpLDKA9L1vBVm3nIBiNuiypViiPy020wbELVWAvhlVjJzSQ50NO8aJOsrR69yGy2aOPUIRrl8ls526YVgY1vUfUBhnt2AuoeBhOOrAOpwUc4XV0G97iyiu0Y-tXHfEMXoHTOBedHlQqlWtZy9uXyqD6MEEqRxYnaDwp4IX46x72Q4JzwVmu0sZXxZgi1QIYkoCqh757LsCg61KxfMB_Gnszh5s3lT93ttp8zvooizCMLN17httGClX-29AQ2G-tiNuVf6MOvSkLmQ5Bn7QCnFUNqRPXXueuGxfdIwgJHGTmbXr1kp--hdfqMszWhKZvq_4z4_5_B7J5MxH54uRtXxqA6WWHupd5RjLK9_1E4/p.png"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABtASV5eH5kgsNQaRlMLlAPyL6n7axtgr-6LjPTNo-6hODtJmFv3VdvhS-toZjKk0JzkmCmGhK_tLgsF1jkXPVWx8nJ4TbcrJ-5yAStr6VGHGoTktgAQSAs0EpxgLsOxEueZGNQy8f1zYv4TKjqr34-vCoOLhXxHbZN9yEVzRAXx3zKfaeuIGFtpA0T1cEqg5X_MXlRLlLijn3SOHj2Ml6gUYbM-FbUCiqhRAdrDMdBSwVnC5ywF9wXhbrfTEMB9zkdXGauu1wsTkRdMmLYPpy6yXe5zw9QqD59AgArZVfJZXUhZ-5xvpKoNMKF23BTP1X90JXe_RkaZneCA31nwf_WxuEOhRYHuaFrMWwLPZDdcFEp7Uo42uAnFsxeNFpStIGhmjMHIj39Bcs1h_qFoKYGS/p.png"
     },
     "rels": {
       "father": "ac9c06bf-bff3-48b1-80c3-3f818b798564",
@@ -515,7 +515,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Kshama ",
       "last name": "Poojary",
       "birthday": "Dubai ,UAE",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t39.30808-1/284012660_133776085937591_6222635650312756447_n.jpg?stp=dst-jpg_p100x100&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_ohc=D4s8w8F-BtkAX9bLCj0&_nc_ht=scontent.fbom12-1.fna&oh=00_AT9cslhGhXi7ZCKK6wQmfs6ccKyxQPEs3gWKRkvS9-9GuA&oe=63493324"
+      "avatar": "https://media-exp1.licdn.com/dms/image/C5103AQHapj2YiavPfQ/profile-displayphoto-shrink_800_800/0/1576587109877?e=1672876800&v=beta&t=v9Hal5PXn4oB2wDvAwy6J3NAaL3gMugc90IZZMR4-Ms"
     },
     "rels": {
       "mother": "f1be6a10-6ecb-4c8d-a77b-b7321b09a76d",
@@ -529,7 +529,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Suresh ",
       "last name": "Kumar",
       "birthday": "Vasai,Mumbai",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABrFEHIP1dbKZdvx_GPkMYiRvnk2Hjl56QQXTjSIqTywJ6XLAUcp_F8VsbvJP8b0WzSmx46IIcHEVY47Qy7MR8_FklZ9GMyjVhgZVj0RmFkndsDbmpvu4G98Qu41FmyczrjpFLQSWyQMZ2ew-oyd9nWjeIFQTY0spVtP1gk8OpW6u2xgbwYJfX2x7CrxvdL9KGfIxGXL2xa7GpEd5uzkBotY__AzgXU2Ny9kniyERiojF0FRUIutC6kuXXFzJ-gnR-hKStb8jgE4D4NUz5p0VOZa9bwMAurGzqyNOeA9j6wwi1zkQ3ALjZTe1mKyzx4h198AS8kMA7Li1wOU8WHJa4BoWcxsLmViT9RNghPfH9fG81I6Ipd6O24C5LWkUw_eUUM/p.png"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABtxnOPgQY2N6G-aA6fVTIjnjvaRm4drVj5ZHSy14-A7LIwbvZBlrQXhh0SSXYwJVuAK16nZIzIcnONu3jFY3jTHACiO-D58xd5x8tTVPwaPi86w2XR73aFeIOkgsdURHZQpslRRp3dM3o3Krz2nGyPQKcqrQeF826e1mEkA925tfBxjAoLCDB_GCzD2ostN-TnbOHngFuXqnHpfVk9mBm_h15yAHUxex3Osqs6RHiD2vL0F-rCBycGsEbAEoZlWNdWbrLdJI9NabGR_GKKVxLvM83PYvObqwRUc9gQTU7WgosO6fNq4K6IZr81VDlL6n8BWQ1PuSbAb61DT1NUx-sJJAv0xs0sCj8j3oZR5uMtbX45AzezI-WZunVFaD_IbWk4vcyciT6sRQVU85X1JBXsr/p.png"
     },
     "rels": {
       "spouses": [
@@ -568,7 +568,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Nihal ",
       "last name": "S Kumar",
       "birthday": "Vasai,Mumbai",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABqvK9Cl4NZtfQHmw821y8OKTMTufS6Q5kqampwae4D444MHSgZI-Re13OhsfDY3W2txwX6reO5tF2cBxVQq_ORTM7H-kQAPdQDmcVeGxvhK3zogrv3qUrqR0nqdtVcVtdW3GRH9Q9SHYlaKdcYSwpP6Qp24Kab0_srOuSDiipBT8EpfYk6qLiv0T0yotWLzcTg0-erKafFWG8EbOLLQv2dCaFbglQO8FMym3mwHl4aU_4PO6craKwsaxmT_bfAcdo6UWWM-KDbMVVXj3M2KJm5oJmaWjs2SbykfmH74QOnm8qmFF__VDSobiDaMu9uj6qLMtZyVQLVhy-zg059qH4P4T_APDOBhF-N-s0giFi9jfaqHtttA8Nc01G9G_uKeA9k/p.jpeg"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABvisVXiBITDruuUyuV3TMlMS7Dd76lJuuo-6upgu4rCyysBA2SiBFpj38ISfes997pGJQSA8-YiCyscgcjWfQDUC4Purnptv4_TQqm7tg0Wr5PQHsKtOLGeO8-Hiw32nLL2zFNJzW5uAqdjTkPI7mJMrMMdj1P_IMvBWdTF--KwdWjuDE4-tYTmXDZoeK_WehqFu6n3wZ0MTU9PYaG6qbuxe4LgP8Ze2KOPLPtslNjHUg_zyc9xYTeBrNlp0DqVA5uJt_Q11Tt1BpUViHwp_3noGNskwHwqVlCfrwjO5Ntx2taM72CO18B_Z-IXMGd17t9UarnCfVAH-hVb1OdYFbU849wkI8GyH23dO5ajmtueKUktoCj7vMSFQbgu_-rgt58DcQ2qyCStFnIKofFoh4Ct/p.jpeg"
     },
     "rels": {
       "father": "e7679ad7-9dbe-4252-aad9-d796574fb2e4",
@@ -671,7 +671,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Nayana",
       "last name": "U Mulky",
       "birthday": "Andheri, Mumbai",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABptXjpEBLbVckJzq7Mb82BTqdPr-J-SF_xEgMYvJGWnwe6K1AQgKq7aJzXA3NnBnlXFw284C1pL0oGJDtKceE2PS5x153dF90HpFtjUt8le6GnPszQh8kINkmJLJy75sxprNybbKzp2tSgroKUjeaSxFRhjGEWQkaWL6s78AcsvV2i61rOJVkL_A8KbzTinODBNe8Rsfntb99cSBS0hSG9oK6_yXCF6wvobeMHV0LOOVzEjxyxo94kEvHu8TdsoKfkz8unkGcnWSQUeNmVQhuc9OKcqJ04wEpEViDuCX1AieLTdI9sIa1ZcfMUGJRWStiqTbr1CW_Z_uFeJ0ZpPQanQ9K04VMlsx4uJ3U9llez45CnJcyCyMMKIIqUJY3zdF5M/p.png"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABtlETqCVLkryX_jsJRURFTWSN1Su_navjOVFhwmq9KcBbNgo5mvxa4pHCrkkNOx1L-btTl8_5M7hXtQ-Lt-qq_VuIevHuRDhoxrThwCqHbIGOYOS_xOEspztzKA9-fqO2t-OUqQWZtVFKRseY9E-ZTmRR5xq91zO9nO5h7qkbolCWLNDfJutOywvE567cDg4NMrOEFp2h4nM3oAo3JmnjhlT93Y0A8Qn2HgTQBiCp7Yymp0KF5ZoglOM76PfWEbOvpjbvXLp547-F8zg4IpGlEySlH0Y4_NI4FGiXfWY5MSE47IbUz_oUzs9toQFYFDSC7GQ7bnxwy9IKTLGDzl8RKB_NDod7ojcQc4TL-fa1fQ3bmtP8IZj0_nDhFYe44HuGXlI3xbBfMr-w1DUDOsp_lQ/p.png"
     },
     "rels": {
       "spouses": [
@@ -734,7 +734,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Amita ",
       "last name": "P Kumar",
       "birthday": "kandivali,Mumbai",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABoo0G2cAN-g1xOZIvWVRvFeQXHo4kr8PKznQWM-0u0-WkfnbliYnmonm3IIQL4wIiYRUfLvVdJtJccRcTR5vRiaXLE_kO4A02BPg4g4pBcrboDxdSlKiHkS3tb26LCc7lPJPQq0H0sEjDJHQbg3cBWH3Mi7qQQfmLOYSVwbz_rUt2cIV-qh90edkWpWU_qbrqa4fscTWHbvqLPKu920szDHJNMmVD6w9wcaYPBomGbu8i9Y0w7l3oFaL1q1M-qVUNvcRZzwQyXMi-Vx1xMqM1h6iRD5uJsNpEDCAfP3fjuhDEai9WaAWvS5QP6Vh6H2hbD_In-6rd4Cq42NgS1uHaVxwXkO8t45C61YArv5un_sUxdCGs5QdcpQPdXTRj8GXl0/p.png"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABsL74HabRWxUA0J_0_icq-g5hCiDk-NvYbxQIKZHxwQhPWxNf2Ld_qTtgI24L_WdaC6kpkS4O1nJ8HkooZhkVoV47eLcfjGlS9kVpLj5gYW_WHPT4LBgsw11ZjUqKbgnLyOv4ciPAkAJnR0wW_PL8b_YqXNug2SeCwJai_QSn9PquzCLx2JgSyNBOKxIoPx3H0vNq65MrIbwvSkra60uNG9kn0PDhvbnEFHu5ZF6a4phAEMXScadkWSARgHRnOgputOzcNiDjMopZcSX0fBB6Og9F4bBHtKJ2KjQ3bTBRKfzhrWsGiYWEXBjHVjFkjoXB8h0CqyK5kvBGUsL3PTdkOO4kGR1zyK40JWvYLxk3CjeVPLjt9wxhhFIryEHXCH1AGFawdgnTWBY6_VJUJYsMEM/p.png"
     },
     "rels": {
       "spouses": [
@@ -784,7 +784,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Snigddha",
       "last name": "N Kumar",
       "birthday": "Vasai,Mumbai",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABrHTUggCLCJYll0u2AJPoB2_4Fx1kPXrmf9JXU5fiMDhjHas-T1p9xvCNdMceL9YT_nvW-4OpSW4-OPcvMXRnGnGQXHyGIhIToVxONrCQf4IK10NYWyJKJOU7zkviDb92nWX8yBTzKSxI2sndk1t3ORaKRave5GB1qetFA_4B6NJ07vcow9-gVODvmqveQQXjKgXll-Xaj7_L-jRBMheeBeOgY2M3djOpP2WmVGXk_W9VSXnec5KrLFah3JCNOwiqhV65psmqGVkmzLN69az0efR_sv8nvxZI-i09OIkeFhQaYbTPC52fi9oowyFaLSiVjZiPdQlhMaU5ol6XCBQusQ0Y1kHk07PEeguZ3QL6Seqm9eHGLfZY5qwtbmNvrzVSE/p.png"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABvC2j86koPz5UvGpJ9xVAjDYcDbNj9OQTWo-fJ0fH3TCm0U9A9L0qzsj7o5iE_5JLkWxTWl7_1_ga6yghTOVhxA7nF4mxilZEfFq3quVnbyvjEvJy2JaR2qNTJ1ZzSHI4-k-sBNM-PkmjjnvhkTEB-KjUKYpOv9SfPwU1abljdIoV_Xxbo0t9ntBNDXT3fvFLiQp2N4C8PyE8MbR1czRzXpignIXTsrni5C1LZ6SQKVOC9TA4AQRQd_KRyOrhj7Xeh7F1Zj3rHf6ml5KtC_iCmpQU3qrvVBImfde_iOGgGYP7P2PiLTEkJmLyxIjIornM-gSA-4-y7OTFjmrOIVqgPbsS1tb4OXDD0mU6wFJ9fLk4WzU8sCiHihJqL-xssD_CCKz58u83aLQPPYoXNZwKoA/p.png"
     },
     "rels": {
       "father": "8443ffe3-ecd7-48c4-83e0-96bd5db67d17",
