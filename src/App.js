@@ -267,7 +267,7 @@ export default class FamilyTree extends React.Component {
       "first name": "GopalKrishna",
       "last name": "Mulki",
       "birthday": "Mulki,Karnataka",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABqgw-0i84r-s9TKH_FqcNsnm-uJ7Baea8Ugw1YKiq-m4QGOIsEoMviBR9y7SBb91mADsadPKAPGC_i0PXCYDm3vgNLY93117BZtx4bPFOA-zQ9ZhV43FW7HM1bcRucZ0Mt0nXMcFdMQaRV8-CRlyWlxvWW_hHTRkj_WkpwtmidmSWP7NlnLn8qULXN-G5wAI2B4JUbkQ7Op63i16Qc6_wE7abmEuyID4uv7whf9X8OLcI45vRlUNn0vvKBpSZyrgxWJxjHUZ3RWZa_60phm7NivBE78LTyi5beD_KFFXR7vb2gffpi3LkqluogkrzQnU6SEvQOITy87ac5XkQuIUg5a-ysw8HymKk4Snb3SkfuMANchX_aJhN24u-2-BdKrkKU/p.jpeg"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABuJUNKOt2Ozupgr5QVgFlEzgLYX4uDqm7ycQ44dDuh991Wv9LLGSxAsFlCW80p3wm0TzvhC3wiWwFT-VJLmekKRfcY8r3zXjewvPEuMQmiHupDRPDv_ymnW1r_Sft2zIUoT3hY6vEw_y4QYujjJ2imJnH50uEHYB9MTW1C1ZsPdWOY2Wy3d03Vb77Cdz3q0m81Eqzx5eeTxaCA1pjWU5pk_6aFo2vHXaEfg5YFVe9azDgZkric7YH7wsOb6LaaqShk6PF-ZHBCf90x378Ql-Qcx37SS_m5NmdbDuwriSli37A3xNB3N2upn2QV6-sDqYgSKhqHZDNtN-eU_ObKpn0GAEGXMPViAdj7BiLX9Q1wRfgBU1VGYBVfaxygAVw04Ows/p.jpeg"
     },
     "rels": {
       "children": [
@@ -588,7 +588,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Prabodh ",
       "last name": "J Kumar",
       "birthday": "Bangalore,Karnataka",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABpg2bEf_kS54xtZc_3gkpNJRYyGc__XEp87pFZe8TF5VbkFQdsyWBgVEZQm7ZyppLUaN6MX1FVkI_I9MMkx2wRP_igcIomzcfJEduwdCN-MeO7gpVeQJ0QoazWe8QUK40XG62cahezY0Dft56zRqOU2y7ujdKzA35-bJNpdUjtR067dISUA6WB2rJ6S0lmk9YRP4wO6PBgQyG2R3_X_3cWywmvh-qpWHlSCZlvYkGHjrPOaewBLOSQlur9JW0HX6Bg2hOE3_pf04jGtNCIg0Awh65p1jPr671PLWR6i9MVHXkWN7cBVPTXUA0AVdCZvJpj1_KjHcslb8TykQJuA2C_wY0BOlroX2o3FZ4KLbajWp68XL9qn5CXoTAiZqsV5qjXaCNkl8NXEvEOlc5kQKQmF/p.png"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABvjV7Ozs2EEIjYjrSSv0VLwPKBdTKQCl0TPZPNqeiSM_y-IHdGQ0kvBLjG-1LdK3FT27rqodEamWXTREYWJSoBdPgS5wxEBq7tKz5hDnYBoHNglYCMWAPPKu_sY9fsBDi-TpTwFqWLsj6X_UOoNWmOd4WQRVc6Coy4PV7PZ9uPYtP-1O49GytRzF2TsKOhI8FaQQcSAP46qsltR92kXWZ2yCNkzg5vr1H_cm2nUbxcfBoO0kVdxqz43hjkTp2DOWuzgit9R22zHbluUOlEjEf0I97Ntz6jnjqwYys7BHtMu0zoQVNI5kgB2MwNZGUl5M5uNV1j725XYeQxYoZaMW-WZ99cBJZXr_3zwgnTeSAhOf5ADQCgOpJq3s_5KkLoUl1BjgfpJuRM4xuma9vUEESI3/p.png"
     },
     "rels": {
       "spouses": [
