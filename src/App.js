@@ -289,7 +289,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Gunavathi",
       "last name": "G Mulki",
       "birthday": "Mulki,Karnataka",
-      "avatar": "https://previews.dropbox.com/p/thumb/ABqrWT4A2rCAXWbsUXdez4bnM82Vzpj1TUi77TjApP2tED-UVrrWF0si5FchZp949T2vSoUSTBo6YcuMoRc7-35BbJZCnQCr8RJSejavgyMyV0v4uhHs2ljVjKiJJJaaXxSb3u_6d58dyP1rVcUk57Q1dT8Yj9qzaYyMaiDbXLE4FM8O9NdUH_oj8AGuqHd9z5HLTbQ6Ss4hKWilmForyX5-G2ahbstXyGj2mgYOsO9uDoUV568BKA7_f7tBNwrIkgjFoxHkeJYhIG5tplwzhMRJmGZkRclihwPlf8gunPl46EZ85QgLE0stwJyZcQN8Ry7mXXVH1SwR8bs-EsnDrRVelNDMaQNge_dKeWJCLbiMHfTkKHCL-smTT_U8B2Sb9JU/p.jpeg"
+      "avatar": "https://previews.dropbox.com/p/thumb/ABtMydbp_AYSL1ha6dQQBk_MAeDykAhC0gONQUwDjcxgKdvZ10jqOVqjO4DCUx69Hc9KoH-jlM6GVwtF-EmoTmqltTCgOE_asiYVXzEMlCEGRtMTXfGM3sPuPpSnfmjg_WvI9U1HqvhUKLPCbXTPqyaRQZDjVbfepq2Q4EvGuaRoL6aapgwGbMjLwXAYcoepv0u7VpeKOGvkqtSGWPAmXW1_rrQHGNbJ_VDYjlfv8553GD1eKzWNFtHMOEIoKAShdJNiiBsr4cVS1WqnSjSyGjDo5iYJ727sQVCmOCpR_kn0WtIeFrabVtpfQtoNK2kvPYDS4H8XfiL7c988LSIlpUbYAm0oU21XcqmJvFOBBACI1RCiHRqKucQOnH9Hnd_emb_XZENpgi8WYFxT_qa3t5K8/p.jpeg"
     },
     "rels": {
       "father": "0",
@@ -766,7 +766,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Shraddha",
       "last name": "N Kumar",
       "birthday": "Vasai,Mumbai",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t39.30808-1/310647790_5881748311844601_6232242648392321622_n.jpg?stp=cp6_dst-jpg_p100x100&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_ohc=YVjkm_LKTLEAX8PEzoM&_nc_ht=scontent.fbom12-1.fna&oh=00_AT8VYhadzcEKqx25pIRsdKpxLq05pFLR2SdphMGRkKclwA&oe=634AE075"
+      "avatar": "https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-1/312024333_5921360651216700_5082414235592403584_n.jpg?stp=dst-jpg_p100x100&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=g4Z8tdhs1ZAAX8pu1s2&_nc_ht=scontent-bom1-1.xx&oh=00_AfCcuk_TiOpWRftO4vbJcb0Xt2Sit72reFABqzuGUqw5EQ&oe=636518BB"
     },
     "rels": {
       "spouses": [
