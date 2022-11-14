@@ -1,29 +1,38 @@
 {
   "files": {
     "main.css": "/family-tree/static/css/main.58c9a70a.css",
-    "main.js": "/family-tree/static/js/main.8ad61315.js",
+    "main.js": "/family-tree/static/js/main.90fdd126.js",
     "static/js/787.89253b9b.chunk.js": "/family-tree/static/js/787.89253b9b.chunk.js",
+    "static/media/Sparsha.png": "/family-tree/static/media/Sparsha.e91e65d4c15fd9bcb661.png",
     "static/media/Sphrihan.png": "/family-tree/static/media/Sphrihan.fa4e73bb22db97327dd5.png",
     "static/media/Jyoti.png": "/family-tree/static/media/Jyoti.057b30bf1379a9711d2b.png",
     "static/media/Snigddha.png": "/family-tree/static/media/Snigddha.f1545be2cd3284007898.png",
+    "static/media/Prisha.jpg": "/family-tree/static/media/Prisha.d3fbf43745ff96eeefab.jpg",
     "static/media/Suresh Kumar.png": "/family-tree/static/media/Suresh Kumar.aecf2f7a95c2ff7a8280.png",
+    "static/media/Parichit.png": "/family-tree/static/media/Parichit.1d4b61339b1fc73c9bbb.png",
     "static/media/Gopal.png": "/family-tree/static/media/Gopal.a78d33f65f5eb045815e.png",
     "static/media/Nihal.jpg": "/family-tree/static/media/Nihal.744dfbc06454c99b9678.jpg",
     "static/media/Prabodh kumar.png": "/family-tree/static/media/Prabodh kumar.ab798e6132bba555f80c.png",
+    "static/media/Prabha.png": "/family-tree/static/media/Prabha.69e121977ec0a78cb365.png",
     "static/media/Divya.png": "/family-tree/static/media/Divya.c8d12888dc8db1051c40.png",
+    "static/media/Chandrabhanu.jpg": "/family-tree/static/media/Chandrabhanu.ed84a97c714902d3b6ef.jpg",
+    "static/media/Arpitha.jpg": "/family-tree/static/media/Arpitha.7d0f6a5d9d17d1d20869.jpg",
     "static/media/Amita kumar.png": "/family-tree/static/media/Amita kumar.c61025ebcb7ecf8e4e78.png",
     "static/media/Gunavathi.jpg": "/family-tree/static/media/Gunavathi.490ecc5ade06f1cf6df9.jpg",
+    "static/media/Pratam.png": "/family-tree/static/media/Pratam.cd54ea0c49228aa7a264.png",
     "static/media/Nayana.png": "/family-tree/static/media/Nayana.f4008a94cde779a8a125.png",
+    "static/media/Shraddha.png": "/family-tree/static/media/Shraddha.34878481b570fd65961d.png",
     "static/media/Ananya.png": "/family-tree/static/media/Ananya.c9dd64eee5312c17cced.png",
     "static/media/GopalKrishna.jpg": "/family-tree/static/media/GopalKrishna.136d8d90b51f08d34928.jpg",
     "static/media/Savitha.jpg": "/family-tree/static/media/Savitha.8e6080ff4d15e749ad79.jpg",
+    "static/media/Uday.jpg": "/family-tree/static/media/Uday.682fd7b1b1fe854b8bda.jpg",
     "index.html": "/family-tree/index.html",
     "main.58c9a70a.css.map": "/family-tree/static/css/main.58c9a70a.css.map",
-    "main.8ad61315.js.map": "/family-tree/static/js/main.8ad61315.js.map",
+    "main.90fdd126.js.map": "/family-tree/static/js/main.90fdd126.js.map",
     "787.89253b9b.chunk.js.map": "/family-tree/static/js/787.89253b9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58c9a70a.css",
-    "static/js/main.8ad61315.js"
+    "static/js/main.90fdd126.js"
   ]
 }
