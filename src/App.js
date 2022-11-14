@@ -623,7 +623,7 @@ export default class FamilyTree extends React.Component {
       "gender": "M",
       "first name": "Parichit",
       "last name": "P Kumar",
-      "birthday": "California, United States",
+      "birthday": "Amsterdam, Netherlands",
       "avatar": require("./images/Parichit.png")
     },
     "rels": {
@@ -655,7 +655,7 @@ export default class FamilyTree extends React.Component {
       "gender": "F",
       "first name": "Ayda",
       "last name": "",
-      "birthday": "California, United States",
+      "birthday": "Amsterdam, Netherlands",
       "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGCnpxY9a3qvA/profile-displayphoto-shrink_800_800/0/1517584647398?e=1671062400&v=beta&t=6yeXFqH9cxhPraHD-4IhyvZqPWnJa_jrT3WqFYTikuE"
     },
     "rels": {
