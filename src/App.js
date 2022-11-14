@@ -246,7 +246,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Prabha ",
       "last name": "S Kumar",
       "birthday": "Vasai,Mumbai",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t31.18172-8/14753387_211936709238016_7396961095198057931_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_ohc=F00M4dhe3bMAX-e7MyT&tn=rhqxH1Y10ueW6icM&_nc_ht=scontent.fbom12-1.fna&oh=00_AT-GF_ksgowdUf-f_37mvGd75hKwtAQ6NLjSRdXCmiU_JQ&oe=636B1DBE"
+      "avatar": require("./images/Prabha.png")
     },
     "rels": {
       "father": "63a63a6a-a14d-4fb8-a466-6ca92e9e8b69",
@@ -334,7 +334,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Uday ",
       "last name": "G Mulky",
       "birthday": "Andheri, Mumbai",
-      "avatar": "https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-6/305921981_5625643544145472_1690731529077977092_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=vAjbicKWzRkAX8_mHTb&_nc_ht=scontent-bom1-1.xx&oh=00_AfCPXebQ4VUIyYihFvB_6kUDifb-hNpv-dAOsWcY4_L2mw&oe=63642CD3"
+      "avatar": require("./images/Uday.jpg")
     },
     "rels": {
       "father": "63a63a6a-a14d-4fb8-a466-6ca92e9e8b69",
@@ -376,7 +376,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Chandrabhanu",
       "last name": "G Mulki",
       "birthday": "Mulki,Karnataka",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t31.18172-8/906259_10152512291720739_5256004418848768817_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=0ASjMyJLMaAAX_YDc0p&_nc_ht=scontent.fbom12-1.fna&oh=00_AT90n6gNrvS5L_YsO1DRhgzXZBcIq3FzBPVmzIT3hB-_dw&oe=63690A4F"
+      "avatar": require("./images/Chandrabhanu.jpg")
     },
     "rels": {
       "father": "63a63a6a-a14d-4fb8-a466-6ca92e9e8b69",
@@ -447,7 +447,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Sparsha",
       "last name": "P Poojary",
       "birthday": "Goregaon,Mumbai",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t1.6435-1/175652737_10219204633643599_349178482685622377_n.jpg?stp=c6.3.615.614a_dst-jpg_s100x100&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_ohc=mocjLM0yMT0AX-tdVnK&_nc_ht=scontent.fbom12-1.fna&oh=00_AT-CEQaBBkDzdOTOIFUNXD9jGa8Wt0N01CLZfQvX_M4I6g&oe=6367F230"
+      "avatar": require("./images/Sparsha.png")
     },
     "rels": {
       "father": "b52a9723-af23-4ac3-bfcf-681427c5d39b",
@@ -468,7 +468,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Prashanth",
       "last name": "Poojary",
       "birthday": "Goregaon,Mumbai",
-      "avatar": "https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-1/269603759_10159384647455250_1996126181907287483_n.jpg?stp=dst-jpg_s200x200&_nc_cat=104&ccb=1-7&_nc_sid=7206a8&_nc_ohc=udUoBUALGAoAX-zt7sT&_nc_ht=scontent-bom1-1.xx&oh=00_AfAa7gKdzNzw0BePDYbpDkBjv7rS6AtndEyCYD1iN51hqg&oe=63648E4B"
+      "avatar": require("./images/Prashanth.jpg")
     },
     "rels": {
       "spouses": [
@@ -487,7 +487,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Prisha",
       "last name": "P Poojary",
       "birthday": "Goregaon,Mumbai",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t31.18172-8/13329456_10154062033860250_4834449613040455645_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=RX8EFV8fOSAAX-dYU7_&_nc_ht=scontent.fbom12-1.fna&oh=00_AT_qz2rrE-muEWYpnzqAiROmJp8b0AJgOlrukS-1x-EwGg&oe=636A099C"
+      "avatar": require("./images/Prisha.jpg")
     },
     "rels": {
       "mother": "ba680d5a-a56b-4937-aba9-30d57de8d412",
@@ -607,7 +607,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Pratam ",
       "last name": "P Kumar",
       "birthday": "Bangalore,Karnataka",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4D03AQEOkLaxJ_o-Ig/profile-displayphoto-shrink_800_800/0/1646238543596?e=1671062400&v=beta&t=zF_DPpoZfnt_RfUNG-HVpZ2n8Ohi4-Ta7ROWq5vSw6Q"
+      "avatar": require("./images/Pratam.png")
     },
     "rels": {
       "mother": "dc4f71a3-daf2-417c-b7b1-db5c2a0b6c07",
@@ -624,7 +624,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Parichit",
       "last name": "P Kumar",
       "birthday": "California, United States",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t31.18172-8/10699760_10101059961914749_6790436589230266459_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=eDN0hh5JEX0AX8awujr&_nc_ht=scontent.fbom12-1.fna&oh=00_AT_4F2PNwaBjjyD_QogvRYIj3pHwA9MbdmHPi80w-Kf0dQ&oe=636B1437"
+      "avatar": require("./images/Parichit.png")
     },
     "rels": {
       "father": "8eeb8706-6108-4e8e-ac0b-9c0fb287381a",
@@ -641,7 +641,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Arpita ",
       "last name": "Pratam",
       "birthday": "Bangalore,Karnataka",
-      "avatar": "https://scontent.fbom12-1.fna.fbcdn.net/v/t1.18169-9/12642695_1015629761816374_5389004073049912657_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=eZrUoXT99SQAX8j6t6p&_nc_ht=scontent.fbom12-1.fna&oh=00_AT9yI7rJjCn2SfTv12c47nJ1VpwRcRl9g7vDZg-dGhPT3A&oe=63689064"
+      "avatar": require("./images/Arpitha.jpg")
     },
     "rels": {
       "spouses": [
@@ -693,7 +693,8 @@ export default class FamilyTree extends React.Component {
       "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQG6-wnbnsBrjw/profile-displayphoto-shrink_800_800/0/1558107482149?e=1671062400&v=beta&t=yuN3lasBVik2BOhl0tkMt1gi7rTjN1wHqzgrqZmMKWE"
     },
     "rels": {
-      "father": "2fc54c70-460b-4812-b27a-cb1b9a5b2c90",
+      "father": "9a23ba40-a9ea-4db7-b2db-3cf492615d7b",
+      "mother":"2fc54c70-460b-4812-b27a-cb1b9a5b2c90",
       "spouses": [
         "5c7f1dd8-4096-433d-b27b-479126f223e7"
       ]
@@ -709,7 +710,8 @@ export default class FamilyTree extends React.Component {
       "avatar": "https://media-exp1.licdn.com/dms/image/C5603AQG_s93zmlLMhA/profile-displayphoto-shrink_800_800/0/1533339108030?e=1671062400&v=beta&t=0xKqe_v3NZmc0A8EanhSHiiqdBBb_88PjSs0JdHBFvo"
     },
     "rels": {
-      "father": "2fc54c70-460b-4812-b27a-cb1b9a5b2c90"
+      "father": "9a23ba40-a9ea-4db7-b2db-3cf492615d7b",
+      "mother":"2fc54c70-460b-4812-b27a-cb1b9a5b2c90"
     }
   },
   {
@@ -766,7 +768,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Shraddha",
       "last name": "N Kumar",
       "birthday": "Vasai,Mumbai",
-      "avatar": "https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-1/312024333_5921360651216700_5082414235592403584_n.jpg?stp=dst-jpg_p100x100&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=g4Z8tdhs1ZAAX8pu1s2&_nc_ht=scontent-bom1-1.xx&oh=00_AfCcuk_TiOpWRftO4vbJcb0Xt2Sit72reFABqzuGUqw5EQ&oe=636518BB"
+      "avatar": require("./images/Shraddha.png")
     },
     "rels": {
       "spouses": [
