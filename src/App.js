@@ -86,10 +86,10 @@ export default class FamilyTree extends React.Component {
     "id": "106751a1-5f14-442c-88ae-c3b56f3dcc36",
     "data": {
       "gender": "M",
-      "first name": "jagannath",
+      "first name": "MK jagannath",
       "last name": "Kumar",
-      "birthday": "Palimar",
-      "avatar": ""
+      "birthday": "Malpe",
+      "avatar": require("./images/Mk Jagannath.png")
     },
     "rels": {
       "mother": "d1831860-2879-45d2-aa75-72cd9a6cc0d2",
@@ -817,7 +817,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Dejamma",
       "last name": "J",
       "birthday": "Palimar",
-      "avatar": ""
+      "avatar": require("./images/Dejamma J.png")
     },
     "rels": {
       "spouses": [
@@ -840,11 +840,18 @@ export default class FamilyTree extends React.Component {
       "first name": "Prabodh",
       "last name": "J Kumar",
       "birthday": "Bangalore,Karnataka",
-      "avatar": ""
+      "avatar": require("./images/Prabodh kumar.png")
     },
     "rels": {
       "father": "106751a1-5f14-442c-88ae-c3b56f3dcc36",
-      "mother": "7815323f-bbe5-4f72-969d-64e872cdceae"
+      "mother": "7815323f-bbe5-4f72-969d-64e872cdceae",
+      "spouses": [
+        "52406f2e-3a01-4b36-8173-a978ce09e0e2"
+      ],
+      "children": [
+        "5384b63a-f287-4c66-957e-a2328fb1f9b3",
+        "d257c598-87b2-4d98-a15b-fe9baa25b1b1"
+      ]
     }
   },
   {
@@ -1652,6 +1659,89 @@ export default class FamilyTree extends React.Component {
     "rels": {
       "mother": "cb1f73eb-fdef-4d97-80a2-520982516b10",
       "father": "c378fc68-d5b9-4d3a-87db-f1c68b6a4332"
+    }
+  },
+  {
+    "id": "52406f2e-3a01-4b36-8173-a978ce09e0e2",
+    "data": {
+      "gender": "F",
+      "first name": "Jyothi",
+      "last name": "Prabodh",
+      "birthday": "Bangalore,Karnataka",
+      "avatar": require("./images/Jyoti.png")
+    },
+    "rels": {
+      "spouses": [
+        "2421c5e1-828f-4c2c-8006-06b9be62343d"
+      ],
+      "children": [
+        "5384b63a-f287-4c66-957e-a2328fb1f9b3",
+        "d257c598-87b2-4d98-a15b-fe9baa25b1b1"
+      ]
+    }
+  },
+  {
+    "id": "5384b63a-f287-4c66-957e-a2328fb1f9b3",
+    "data": {
+      "gender": "M",
+      "first name": "Pratam Kumar",
+      "last name": "",
+      "birthday": "Bangalore,Karnataka",
+      "avatar": require("./images/Pratam.png")
+    },
+    "rels": {
+      "mother": "52406f2e-3a01-4b36-8173-a978ce09e0e2",
+      "father": "2421c5e1-828f-4c2c-8006-06b9be62343d",
+      "spouses": [
+        "c300ba7e-29ea-46e0-900b-95f1dda5e056"
+      ]
+    }
+  },
+  {
+    "id": "d257c598-87b2-4d98-a15b-fe9baa25b1b1",
+    "data": {
+      "gender": "M",
+      "first name": "Parichit Kumar",
+      "last name": "",
+      "birthday": "Amsterdam, Netherlands",
+      "avatar": require("./images/Parichit.png")
+    },
+    "rels": {
+      "mother": "52406f2e-3a01-4b36-8173-a978ce09e0e2",
+      "father": "2421c5e1-828f-4c2c-8006-06b9be62343d",
+      "spouses": [
+        "f10e9fe9-192a-4d6e-b078-96b22bdeb305"
+      ]
+    }
+  },
+  {
+    "id": "c300ba7e-29ea-46e0-900b-95f1dda5e056",
+    "data": {
+      "gender": "F",
+      "first name": "Arpitha Pratam",
+      "last name": "",
+      "birthday": "Bangalore,Karnataka",
+      "avatar": require("./images/Arpitha.jpg")
+    },
+    "rels": {
+      "spouses": [
+        "5384b63a-f287-4c66-957e-a2328fb1f9b3"
+      ]
+    }
+  },
+  {
+    "id": "f10e9fe9-192a-4d6e-b078-96b22bdeb305",
+    "data": {
+      "gender": "F",
+      "first name": "Ayda Parichit",
+      "last name": "",
+      "birthday": "Amsterdam,Netherlands",
+      "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGCnpxY9a3qvA/profile-displayphoto-shrink_800_800/0/1517584647398?e=1674086400&v=beta&t=0nUhz1Sab6gwgalbmWvlKnWC9oa7rEBFQIL9AHxlKso"
+    },
+    "rels": {
+      "spouses": [
+        "d257c598-87b2-4d98-a15b-fe9baa25b1b1"
+      ]
     }
   }
 ]
