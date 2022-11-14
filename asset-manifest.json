@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/family-tree/static/css/main.99b81ea1.css",
-    "main.js": "/family-tree/static/js/main.90fdd126.js",
+    "main.js": "/family-tree/static/js/main.cd8cc9f6.js",
     "static/js/787.89253b9b.chunk.js": "/family-tree/static/js/787.89253b9b.chunk.js",
     "static/media/Sparsha.png": "/family-tree/static/media/Sparsha.e91e65d4c15fd9bcb661.png",
+    "static/media/Dejamma J.png": "/family-tree/static/media/Dejamma J.748b16581a7d06837726.png",
     "static/media/Sphrihan.png": "/family-tree/static/media/Sphrihan.fa4e73bb22db97327dd5.png",
+    "static/media/Mk Jagannath.png": "/family-tree/static/media/Mk Jagannath.4c65a355db96d0aad10f.png",
     "static/media/Jyoti.png": "/family-tree/static/media/Jyoti.057b30bf1379a9711d2b.png",
     "static/media/Snigddha.png": "/family-tree/static/media/Snigddha.f1545be2cd3284007898.png",
     "static/media/Prisha.jpg": "/family-tree/static/media/Prisha.d3fbf43745ff96eeefab.jpg",
@@ -28,11 +30,11 @@
     "static/media/Uday.jpg": "/family-tree/static/media/Uday.682fd7b1b1fe854b8bda.jpg",
     "index.html": "/family-tree/index.html",
     "main.99b81ea1.css.map": "/family-tree/static/css/main.99b81ea1.css.map",
-    "main.90fdd126.js.map": "/family-tree/static/js/main.90fdd126.js.map",
+    "main.cd8cc9f6.js.map": "/family-tree/static/js/main.cd8cc9f6.js.map",
     "787.89253b9b.chunk.js.map": "/family-tree/static/js/787.89253b9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99b81ea1.css",
-    "static/js/main.90fdd126.js"
+    "static/js/main.cd8cc9f6.js"
   ]
 }
