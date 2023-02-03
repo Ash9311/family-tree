@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/family-tree/static/css/main.99b81ea1.css",
-    "main.js": "/family-tree/static/js/main.0baf239c.js",
+    "main.js": "/family-tree/static/js/main.7004712b.js",
     "static/js/787.89253b9b.chunk.js": "/family-tree/static/js/787.89253b9b.chunk.js",
     "static/media/Sparsha.png": "/family-tree/static/media/Sparsha.e91e65d4c15fd9bcb661.png",
     "static/media/Dejamma J.png": "/family-tree/static/media/Dejamma J.748b16581a7d06837726.png",
@@ -23,18 +23,23 @@
     "static/media/Gunavathi.jpg": "/family-tree/static/media/Gunavathi.490ecc5ade06f1cf6df9.jpg",
     "static/media/Pratam.png": "/family-tree/static/media/Pratam.cd54ea0c49228aa7a264.png",
     "static/media/Nayana.png": "/family-tree/static/media/Nayana.f4008a94cde779a8a125.png",
+    "static/media/Ayda.jpg": "/family-tree/static/media/Ayda.45e1c8b68da68ca2c72c.jpg",
+    "static/media/Nireeksha.jpg": "/family-tree/static/media/Nireeksha.6e63889eea1c368b8aa9.jpg",
     "static/media/Shraddha.png": "/family-tree/static/media/Shraddha.34878481b570fd65961d.png",
     "static/media/Ananya.png": "/family-tree/static/media/Ananya.c9dd64eee5312c17cced.png",
+    "static/media/Kshama.jpg": "/family-tree/static/media/Kshama.fbb906cc033526ffad7f.jpg",
     "static/media/GopalKrishna.jpg": "/family-tree/static/media/GopalKrishna.136d8d90b51f08d34928.jpg",
+    "static/media/Sameera.jpg": "/family-tree/static/media/Sameera.654dad0b3d546d051586.jpg",
     "static/media/Savitha.jpg": "/family-tree/static/media/Savitha.8e6080ff4d15e749ad79.jpg",
+    "static/media/Nischit.jpg": "/family-tree/static/media/Nischit.d36c54a42cd3425df791.jpg",
     "static/media/Uday.jpg": "/family-tree/static/media/Uday.682fd7b1b1fe854b8bda.jpg",
     "index.html": "/family-tree/index.html",
     "main.99b81ea1.css.map": "/family-tree/static/css/main.99b81ea1.css.map",
-    "main.0baf239c.js.map": "/family-tree/static/js/main.0baf239c.js.map",
+    "main.7004712b.js.map": "/family-tree/static/js/main.7004712b.js.map",
     "787.89253b9b.chunk.js.map": "/family-tree/static/js/787.89253b9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99b81ea1.css",
-    "static/js/main.0baf239c.js"
+    "static/js/main.7004712b.js"
   ]
 }
