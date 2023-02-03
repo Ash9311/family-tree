@@ -515,7 +515,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Kshama ",
       "last name": "Poojary",
       "birthday": "Dubai ,UAE",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C5103AQHapj2YiavPfQ/profile-displayphoto-shrink_800_800/0/1576587109877?e=1672876800&v=beta&t=v9Hal5PXn4oB2wDvAwy6J3NAaL3gMugc90IZZMR4-Ms"
+      "avatar": require("./images/Kshama.jpg")
     },
     "rels": {
       "mother": "f1be6a10-6ecb-4c8d-a77b-b7321b09a76d",
@@ -653,10 +653,10 @@ export default class FamilyTree extends React.Component {
     "id": "9de48ffb-c6ee-41cd-8340-875d7dcdcebe",
     "data": {
       "gender": "F",
-      "first name": "Ayda",
+      "first name": "Ayda Parichit",
       "last name": "",
       "birthday": "Amsterdam, Netherlands",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGCnpxY9a3qvA/profile-displayphoto-shrink_800_800/0/1517584647398?e=1671062400&v=beta&t=6yeXFqH9cxhPraHD-4IhyvZqPWnJa_jrT3WqFYTikuE"
+      "avatar": require("./images/Ayda.jpg")
     },
     "rels": {
       "spouses": [
@@ -690,7 +690,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Nireeksha ",
       "last name": "Mulky",
       "birthday": "California, United States",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQG6-wnbnsBrjw/profile-displayphoto-shrink_800_800/0/1558107482149?e=1671062400&v=beta&t=yuN3lasBVik2BOhl0tkMt1gi7rTjN1wHqzgrqZmMKWE"
+      "avatar": require("./images/Nireeksha.jpg")
     },
     "rels": {
       "father": "9a23ba40-a9ea-4db7-b2db-3cf492615d7b",
@@ -707,7 +707,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Nischit",
       "last name": "U Mulky",
       "birthday": "Toronto, Canada",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C5603AQG_s93zmlLMhA/profile-displayphoto-shrink_800_800/0/1533339108030?e=1671062400&v=beta&t=0xKqe_v3NZmc0A8EanhSHiiqdBBb_88PjSs0JdHBFvo"
+      "avatar": require("./images/Nischit.jpg")
     },
     "rels": {
       "father": "9a23ba40-a9ea-4db7-b2db-3cf492615d7b",
@@ -721,7 +721,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Sameera",
       "last name": "V",
       "birthday": "California, United States",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQErVo44zCNGug/profile-displayphoto-shrink_800_800/0/1557891531360?e=1671062400&v=beta&t=jqc3N9xE_pCnYVdvxWjjSTVS1DHOelT6fa7h-0gAso4"
+      "avatar": require("./images/Sameera.jpg")
     },
     "rels": {
       "spouses": [
@@ -1736,7 +1736,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Ayda Parichit",
       "last name": "",
       "birthday": "Amsterdam,Netherlands",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4E03AQGCnpxY9a3qvA/profile-displayphoto-shrink_800_800/0/1517584647398?e=1674086400&v=beta&t=0nUhz1Sab6gwgalbmWvlKnWC9oa7rEBFQIL9AHxlKso"
+      "avatar": require("./images/Ayda.jpg")
     },
     "rels": {
       "spouses": [
