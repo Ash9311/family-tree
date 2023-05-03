@@ -414,7 +414,7 @@ export default class FamilyTree extends React.Component {
       "first name": "Ashutosh",
       "last name": "C Mulki",
       "birthday": "Mulki,Karnataka",
-      "avatar": "https://pbs.twimg.com/profile_images/1538035286847868928/EallMOJZ_400x400.jpg"
+      "avatar": require("./images/Ashutosh.jpg")
     },
     "rels": {
       "mother": "ed471fcc-61c5-4a27-bf0b-3e8830a2a3c7",
